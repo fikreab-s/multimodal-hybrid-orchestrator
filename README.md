@@ -57,3 +57,9 @@ $$T_{\text{total}} = T_{\text{encode}} + T_{\text{retrieve}} + T_{\text{generate
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![comparison](viz/comparison.png)
+
+---
