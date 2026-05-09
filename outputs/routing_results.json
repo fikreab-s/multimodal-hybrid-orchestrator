@@ -1,0 +1,9 @@
+{
+  "summary": {
+    "total": 1000,
+    "edge_pct": 99.1,
+    "avg_latency": 77.3,
+    "avg_cost": 0.0013,
+    "avg_accuracy": 0.838
+  }
+}
