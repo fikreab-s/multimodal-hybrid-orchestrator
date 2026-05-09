@@ -1,6 +1,9 @@
-# 🌐 Multimodal Hybrid Orchestrator
+# Multimodal Hybrid Orchestrator
 
-> Production-ready multimodal system that routes text, image, and audio inputs through a hybrid architecture: small-model edge fast-path + large-model cloud escalation + retrieval-backed grounding.
+> Hybrid architecture routing text, image, and audio inputs through edge fast-path or cloud escalation based on query complexity and cost constraints.
+>
+> **Context:** Exploring the architecture pattern for multimodal enterprise AI: most queries are simple enough for a small edge model (65ms, near-free), with automatic escalation for complex reasoning tasks.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
